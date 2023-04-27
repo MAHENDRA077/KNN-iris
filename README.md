@@ -2,10 +2,10 @@
 
 ### Dataset : https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 
-## KNN:
-    1. Supervised
-    2. used with both Regression and classification
-    3. predictions are based on distance b/w data points
+## KNN:(K-nearest neighbors)
+    1. Supervised Learning.
+    2. used with both Regression and classification.
+    3. predictions are based on distance b/w data points.
     
 ## Metrics:
         1. Euclidean Metrix ----> used with Quantative data
